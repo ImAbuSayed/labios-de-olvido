@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios de olvido
+
+This log tracks the cryptographic history and versioning for the song **Labios de olvido** (labios-de-olvido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:10:15.185856 | `v1` | `21ddcaa61c7f7b0978d58cd4fa7361081c4466937d845d84e943edda17fcd1ac` | `d10244b360e10635afeed15365f9cc2e1860979212e1d9eed1baeda2051a48f8` | `2026-06-18_labios-de-olvido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
